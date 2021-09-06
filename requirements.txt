@@ -1,0 +1,6 @@
+pygame
+beautifulsoup4
+pandas
+requests
+wikipedia
+playsound

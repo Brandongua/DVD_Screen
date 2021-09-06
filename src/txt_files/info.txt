@@ -1,0 +1,17 @@
+IT IS HIGHLY RECOMMENDED YOU DONT CHANGE THE IMAGE SIZE
+UNLESS YOU MAKE IMAGES WITH A DIFFERENT IMAGE SIZE THAN 97x43PX
+put any 97x43px image in the DVD_Logos folder for it to be used
+
+in the DEFAULTS.txt file you can change the default:
+window width, window height
+picture width, picture height
+
+In the top right are ADD, and TOTAL
+ADD: tells you how many logos to add when left or right click, 
+also removes that many when middle clicked
+TOTAL: total number of logos on the screen
+
+Featureless.py is not necessarily meant to be readable, it's more of a challenge for me to get it in the least amount of lines of code as possible
+    don't ask why, I just want to
+
+version: 1.8_B.15.1

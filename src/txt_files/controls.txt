@@ -1,0 +1,47 @@
+FEATURELESS:
+Left click: add logo
+middle click: remove logo
+right click: add logo at mouse
+
+FEAUTRED:
+
+MOUSE:
+LEFT CLICK (+ LSHIFT) [+ LALT]: add ADD # of logos randomly on the screen (show info on new) [inverse color dvd]
+LCTRL + LSHIFT + LEFT CLICK: Stop the logo that was clicked
+MIDDLE CLICK (+ LSHIFT): remove ADD # of newest logos on the screen (remove at mouse)
+Middle click + LALT (+ LSHIFT): moves all to the average position (moves to center of screen)
+RIGHT CLICK (on logo) [+ LSHIFT] {+ LCTRL} {[+ LALT]}: add ADD # of logos at the cursors location (show info) [show info on new]
+{Shows info on all} {[inverse color dvd]}
+
+ScrollUP (+ LSHIFT) (+ R/G/B) [+ LCTRL]: add 1 to the ADD counter (add 10 to the ADD/R/G/B/base counter) (R: change red)
+(G: change green) (B change blue) [changes the base]
+ScrollDown (+ LSHIFT) (+ R/G/B) [+ LCTRL]: remove 1 from the ADD counter (remove 10 from ADD/R/G/B/base counter) (same as above)
+[same as above]
+
+mousewheel up/down (+ LCTRL): change the dvd the mouse is on (changes to inverse color DVD)
+LSHFIT + LCTRL + left click: stop the dvd the mouse is on
+
+KEYBOARD:
+F5: remove all Logos.
+UP + LSHIFT increase FPS limit by 1
+DOWN + LSHIFT decrease FPS limit by 1
+
+LSHIFT + ESC: exit
+PAUSEBREAK/ESC: main menu
+F12: switch
+
+F6: cycle background color
+
+UP/DOWN: show options ontop of DVDS/vice versa
+
+F2: take screenshot
+
+F3: show/remove all options
+Show FPS: 1
+Show ADD: 2
+Show Total Logos: 3
+Show Total Hits: 4
+Show Most Hits: 5
+Show R, G, B: 6
+Show Base R, G, B: 7
+Show AVG Hits: 8

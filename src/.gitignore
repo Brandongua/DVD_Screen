@@ -1,0 +1,7 @@
+.vscode
+__pycache__
+*.spec
+*.pyc
+env
+.cpython
+.pyc
